@@ -18,6 +18,7 @@ items:
  - IEEEKeralaSection/rescuekerala
  - Data4Democracy/ethics-resources
  - civicdata/civicdata.github.io
+ - fairshots/Fairshots.org
 display_name: Social Impact
 created_by: bescalante
 ---
